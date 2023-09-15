@@ -1,2 +1,2 @@
-# BoxOfficeMojo-Scrape
+# BoxOfficeMojo Scrape Tool
  
